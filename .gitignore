@@ -10,3 +10,5 @@ temp/
 .idea
 
 _pycache_
+
+build
